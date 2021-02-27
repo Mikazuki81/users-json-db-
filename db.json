@@ -1,5 +1,4 @@
 {
-    "data":{
         "users":[
             {
                 "id": 1,
@@ -30,7 +29,7 @@
                 "age" : "15"
             }
         ]
-    },
+    ,
     "message":{
         "status" : "OK",
         "createdBy": "Mikazuki81"
