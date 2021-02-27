@@ -1,14 +1,38 @@
 {
-    "users": [
-        {   "id": 1,
-            "name" : "Mauludin Kistiyanto",
-            "job" : "Cyber Secuirity",
-            "address" : "Ngepeng Rt02/08 Sidorejo"
-        },
-        {   "id": 2,
-            "name" : "John Wick",
-            "job" : "attacker",
-            "address" : "Ngepeng Rt02/08 Sidorejo"
-        }
-    ]
+    "data":{
+        "users":[
+            {
+                "id": 1,
+                "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F20%2Fc1%2F78%2F20c1785dfe91981d452134808641f3fd.jpg&f=1&nofb=1",
+                "name": "Tanjirou Kamado",
+                "role": "Demon Hunter",
+                "age" : "17"
+            },
+            {
+                "id":2,
+                "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpm1.narvii.com%2F5985%2F648db044ff7ba14ae795bb99d827c73a9cbf91f3_hq.jpg&f=1&nofb=1",
+                "name": "Mikasa Ackerman",
+                "role": "Survey corps member",
+                "age" : "17"
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.narvii.com%2Fimage%2Fscicongz6cvlatbxsi2e2tn7kvdjlwjq_hq.jpg&f=1&nofb=1",
+                "name": "Levi Ackerman",
+                "role": "Strongest Soldier",
+                "age" : "38"
+            },
+            {
+                "id": 4,
+                "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp6140790.jpg&f=1&nofb=1",
+                "name": "Nezuko Kamado",
+                "role": "Demon",
+                "age" : "15"
+            }
+        ]
+    },
+    "message":{
+        "status" : "OK",
+        "createdBy": "Mikazuki81"
+    }
 }
