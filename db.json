@@ -5,7 +5,11 @@
                 "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F20%2Fc1%2F78%2F20c1785dfe91981d452134808641f3fd.jpg&f=1&nofb=1",
                 "name": "Tanjirou Kamado",
                 "role": "Demon Hunter",
-                "age" : "17"
+                "age" : "17",
+                "skills":[
+                    "first form water breath",
+                    "honikami kagura dance"
+                ]
             },
             {
                 "id":2,
@@ -19,7 +23,10 @@
                 "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs2.narvii.com%2Fimage%2Fscicongz6cvlatbxsi2e2tn7kvdjlwjq_hq.jpg&f=1&nofb=1",
                 "name": "Levi Ackerman",
                 "role": "Strongest Soldier",
-                "age" : "38"
+                "age" : "38",
+                "skills":[
+                    "God mode"
+                ]
             },
             {
                 "id": 4,
