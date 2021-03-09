@@ -37,6 +37,21 @@
             }
         ]
     ,
+    "animeQuotes":[
+            {
+                "id" : 1,
+                "charaName" : "Deku",
+                "imageUrl" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DL9sbkIezErGunrSqHwBmgHaKe%26pid%3DApi&f=1",
+                "quotes" : "Jika kau kalah dalam bakat, menanglah dengan usaha."
+            },
+            {
+                "id" : 2,
+                "charaName" : "Gentle criminal",
+                "imageUrl" : "https://www.anime-planet.com/images/characters/gentle-criminal-142200.jpg?t=1583025458",
+                "quotes" : "Jika kau terus menyalahkan orang lain maka kau tak akan berkembang"
+            }
+        
+        ],
     "message":{
         "status" : "OK",
         "createdBy": "Mikazuki81"
